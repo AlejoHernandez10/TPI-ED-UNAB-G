@@ -1,0 +1,2458 @@
+[
+  {
+    "id": 1,
+    "titulo": "Grand Theft Auto V",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Rockstar North",
+    "calificacion": 8.9,
+    "anioPublicacion": 2013,
+    "web": "http://www.rockstargames.com/V/"
+  },
+  {
+    "id": 2,
+    "titulo": "The Witcher 3: Wild Hunt",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "CD PROJEKT RED",
+    "calificacion": 9.3,
+    "anioPublicacion": 2015,
+    "web": "https://thewitcher.com/en/witcher3"
+  },
+  {
+    "id": 3,
+    "titulo": "Portal 2",
+    "generos": [
+      "Shooter",
+      "Puzzle"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 9.2,
+    "anioPublicacion": 2011,
+    "web": "http://www.thinkwithportals.com/"
+  },
+  {
+    "id": 4,
+    "titulo": "Counter-Strike: Global Offensive",
+    "generos": [
+      "Shooter"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 7.1,
+    "anioPublicacion": 2012,
+    "web": "http://blog.counter-strike.net/"
+  },
+  {
+    "id": 5,
+    "titulo": "Tomb Raider",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Crystal Dynamics",
+    "calificacion": 8.1,
+    "anioPublicacion": 2013,
+    "web": "http://www.tombraider.com"
+  },
+  {
+    "id": 6,
+    "titulo": "Portal",
+    "generos": [
+      "Acción",
+      "Puzzle"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 9.0,
+    "anioPublicacion": 2007,
+    "web": "http://www.whatistheorangebox.com/"
+  },
+  {
+    "id": 7,
+    "titulo": "Left 4 Dead 2",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 8.2,
+    "anioPublicacion": 2009,
+    "web": "http://www.l4d.com"
+  },
+  {
+    "id": 8,
+    "titulo": "Red Dead Redemption 2",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Rockstar Games",
+    "calificacion": 9.2,
+    "anioPublicacion": 2018,
+    "web": "https://www.rockstargames.com/reddeadredemption2/"
+  },
+  {
+    "id": 9,
+    "titulo": "The Elder Scrolls V: Skyrim",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Bethesda Game Studios",
+    "calificacion": 8.8,
+    "anioPublicacion": 2011,
+    "web": "http://elderscrolls.com/"
+  },
+  {
+    "id": 10,
+    "titulo": "Half-Life 2",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 9.0,
+    "anioPublicacion": 2004,
+    "web": "http://www.half-life2.com"
+  },
+  {
+    "id": 11,
+    "titulo": "BioShock Infinite",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Aspyr Media",
+    "calificacion": 8.8,
+    "anioPublicacion": 2013,
+    "web": "https://2k.com/en-US/game/bioshock-infinite"
+  },
+  {
+    "id": 12,
+    "titulo": "Borderlands 2",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "RPG"
+    ],
+    "desarrollador": "Aspyr Media",
+    "calificacion": 8.0,
+    "anioPublicacion": 2012,
+    "web": "http://www.borderlands2.com/"
+  },
+  {
+    "id": 13,
+    "titulo": "Life is Strange",
+    "generos": [
+      "Aventura"
+    ],
+    "desarrollador": "DONTNOD Entertainment",
+    "calificacion": 8.2,
+    "anioPublicacion": 2015,
+    "web": "https://www.lifeisstrange.com/en-us/games/life-is-strange"
+  },
+  {
+    "id": 14,
+    "titulo": "BioShock",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Digital Extremes",
+    "calificacion": 8.7,
+    "anioPublicacion": 2007,
+    "web": "https://2k.com/en-US/game/bioshock/"
+  },
+  {
+    "id": 15,
+    "titulo": "God of War (2018)",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Santa Monica Studio",
+    "calificacion": 9.1,
+    "anioPublicacion": 2018,
+    "web": "https://godofwar.playstation.com/"
+  },
+  {
+    "id": 16,
+    "titulo": "Destiny 2",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Bungie",
+    "calificacion": 7.0,
+    "anioPublicacion": 2017,
+    "web": "https://www.bungie.net/7/en/Destiny/NewLight"
+  },
+  {
+    "id": 17,
+    "titulo": "Fallout 4",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Bethesda Game Studios",
+    "calificacion": 7.6,
+    "anioPublicacion": 2015,
+    "web": "http://www.fallout4.com"
+  },
+  {
+    "id": 18,
+    "titulo": "Limbo",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Indie",
+      "Puzzle",
+      "Plataformas"
+    ],
+    "desarrollador": "Double Eleven",
+    "calificacion": 8.3,
+    "anioPublicacion": 2010,
+    "web": "http://playdead.com/limbo"
+  },
+  {
+    "id": 19,
+    "titulo": "PAYDAY 2",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "505 Games",
+    "calificacion": 7.0,
+    "anioPublicacion": 2013,
+    "web": "http://www.crimenet.info"
+  },
+  {
+    "id": 20,
+    "titulo": "DOOM (2016)",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Bethesda Softworks",
+    "calificacion": 8.8,
+    "anioPublicacion": 2016,
+    "web": "https://bethesda.net/game/doom"
+  },
+  {
+    "id": 21,
+    "titulo": "Team Fortress 2",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 7.4,
+    "anioPublicacion": 2007,
+    "web": "http://www.teamfortress.com/"
+  },
+  {
+    "id": 22,
+    "titulo": "Cyberpunk 2077",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "RPG"
+    ],
+    "desarrollador": "CD PROJEKT RED",
+    "calificacion": 8.5,
+    "anioPublicacion": 2020,
+    "web": "https://www.cyberpunk.net/"
+  },
+  {
+    "id": 23,
+    "titulo": "Terraria",
+    "generos": [
+      "Acción",
+      "Indie",
+      "Plataformas"
+    ],
+    "desarrollador": "Engine Software",
+    "calificacion": 8.2,
+    "anioPublicacion": 2011,
+    "web": "http://www.terraria.org/"
+  },
+  {
+    "id": 24,
+    "titulo": "Grand Theft Auto IV",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Rockstar North",
+    "calificacion": 8.5,
+    "anioPublicacion": 2008,
+    "web": "http://www.rockstargames.com/iv"
+  },
+  {
+    "id": 25,
+    "titulo": "Dota 2",
+    "generos": [
+      "Acción",
+      "Multijugador masivo"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 6.1,
+    "anioPublicacion": 2013,
+    "web": "http://www.dota2.com/"
+  },
+  {
+    "id": 26,
+    "titulo": "Warframe",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "RPG",
+      "Multijugador masivo"
+    ],
+    "desarrollador": "Digital Extremes",
+    "calificacion": 6.8,
+    "anioPublicacion": 2013,
+    "web": "http://www.warframe.com"
+  },
+  {
+    "id": 27,
+    "titulo": "Rocket League",
+    "generos": [
+      "Deportes",
+      "Carreras",
+      "Indie"
+    ],
+    "desarrollador": "Psyonix",
+    "calificacion": 7.9,
+    "anioPublicacion": 2015,
+    "web": "http://www.rocketleaguegame.com"
+  },
+  {
+    "id": 28,
+    "titulo": "Horizon Zero Dawn",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Guerrilla Games",
+    "calificacion": 8.5,
+    "anioPublicacion": 2017,
+    "web": "https://www.guerrilla-games.com/play/horizon"
+  },
+  {
+    "id": 29,
+    "titulo": "Metro 2033",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "4A Games",
+    "calificacion": 7.9,
+    "anioPublicacion": 2010,
+    "web": "http://metro2033game.com"
+  },
+  {
+    "id": 30,
+    "titulo": "Rise of the Tomb Raider",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 8.1,
+    "anioPublicacion": 2015,
+    "web": "http://www.tombraider.com/us/"
+  },
+  {
+    "id": 31,
+    "titulo": "Batman: Arkham Knight",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Rocksteady Studios",
+    "calificacion": 8.5,
+    "anioPublicacion": 2015,
+    "web": "https://www.batmanarkhamknight.com/"
+  },
+  {
+    "id": 32,
+    "titulo": "Metal Gear Solid V: The Phantom Pain",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Kojima Productions",
+    "calificacion": 8.3,
+    "anioPublicacion": 2015,
+    "web": "http://www.metalgearsolid.com"
+  },
+  {
+    "id": 33,
+    "titulo": "Grand Theft Auto: San Andreas",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Rockstar North",
+    "calificacion": 9.0,
+    "anioPublicacion": 2004,
+    "web": "http://www.rockstargames.com/sanandreas/pc"
+  },
+  {
+    "id": 34,
+    "titulo": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "generos": [
+      "RPG"
+    ],
+    "desarrollador": "CD PROJEKT RED",
+    "calificacion": 8.3,
+    "anioPublicacion": 2012,
+    "web": "http://www.thewitcher.com"
+  },
+  {
+    "id": 35,
+    "titulo": "Apex Legends",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Respawn Entertainment",
+    "calificacion": 7.3,
+    "anioPublicacion": 2019,
+    "web": "https://www.ea.com/games/apex-legends"
+  },
+  {
+    "id": 36,
+    "titulo": "Hollow Knight",
+    "generos": [
+      "Acción",
+      "Indie",
+      "Plataformas"
+    ],
+    "desarrollador": "Team Cherry",
+    "calificacion": 8.8,
+    "anioPublicacion": 2017,
+    "web": "http://hollowknight.com"
+  },
+  {
+    "id": 37,
+    "titulo": "The Witcher: Enhanced Edition Director's Cut",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "CD PROJEKT RED",
+    "calificacion": 8.1,
+    "anioPublicacion": 2008,
+    "web": "http://www.thewitcher.com"
+  },
+  {
+    "id": 38,
+    "titulo": "Middle-earth: Shadow of Mordor",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 7.8,
+    "anioPublicacion": 2014,
+    "web": "http://www.shadowofmordor.com"
+  },
+  {
+    "id": 39,
+    "titulo": "The Walking Dead: Season 1",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Telltale Games",
+    "calificacion": 8.7,
+    "anioPublicacion": 2012,
+    "web": ""
+  },
+  {
+    "id": 40,
+    "titulo": "Little Nightmares",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Plataformas"
+    ],
+    "desarrollador": "BANDAI NAMCO Entertainment America",
+    "calificacion": 8.1,
+    "anioPublicacion": 2017,
+    "web": "http://www.little-nightmares.com"
+  },
+  {
+    "id": 41,
+    "titulo": "Half-Life 2: Lost Coast",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 6.9,
+    "anioPublicacion": 2005,
+    "web": "http://www.half-life2.com"
+  },
+  {
+    "id": 42,
+    "titulo": "BioShock 2",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 8.1,
+    "anioPublicacion": 2010,
+    "web": "http://www.bioshockgame.com"
+  },
+  {
+    "id": 43,
+    "titulo": "Half-Life",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 8.8,
+    "anioPublicacion": 1998,
+    "web": "https://www.half-life.com/en/halflife"
+  },
+  {
+    "id": 44,
+    "titulo": "Half-Life 2: Episode One",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 8.8,
+    "anioPublicacion": 2006,
+    "web": "http://ep1.half-life2.com/"
+  },
+  {
+    "id": 45,
+    "titulo": "Half-Life 2: Episode Two",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "Puzzle"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 8.9,
+    "anioPublicacion": 2007,
+    "web": "http://www.whatistheorangebox.com/"
+  },
+  {
+    "id": 46,
+    "titulo": "Dark Souls III",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "BANDAI NAMCO Entertainment America",
+    "calificacion": 8.8,
+    "anioPublicacion": 2016,
+    "web": ""
+  },
+  {
+    "id": 47,
+    "titulo": "Half-Life 2: Deathmatch",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 6.6,
+    "anioPublicacion": 2004,
+    "web": ""
+  },
+  {
+    "id": 48,
+    "titulo": "Stardew Valley",
+    "generos": [
+      "RPG",
+      "Simulación",
+      "Indie"
+    ],
+    "desarrollador": "Chucklefish",
+    "calificacion": 8.8,
+    "anioPublicacion": 2016,
+    "web": "http://www.stardewvalley.net"
+  },
+  {
+    "id": 49,
+    "titulo": "Mirror's Edge",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Electronic Arts DICE",
+    "calificacion": 8.1,
+    "anioPublicacion": 2008,
+    "web": "http://www.mirrorsedge.com/"
+  },
+  {
+    "id": 50,
+    "titulo": "BioShock Remastered",
+    "generos": [
+      "Shooter"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 8.5,
+    "anioPublicacion": 2016,
+    "web": "https://2k.com/en-US/game/bioshock-the-collection"
+  },
+  {
+    "id": 51,
+    "titulo": "Hotline Miami",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "Arcade",
+      "Indie"
+    ],
+    "desarrollador": "Devolver Digital",
+    "calificacion": 8.8,
+    "anioPublicacion": 2012,
+    "web": ""
+  },
+  {
+    "id": 52,
+    "titulo": "Hitman",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "Simulación"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 7.9,
+    "anioPublicacion": 2016,
+    "web": "http://www.Hitman.com/"
+  },
+  {
+    "id": 53,
+    "titulo": "Outlast",
+    "generos": [
+      "Acción",
+      "Indie"
+    ],
+    "desarrollador": "Red Barrels",
+    "calificacion": 7.5,
+    "anioPublicacion": 2013,
+    "web": "http://redbarrelsgames.com/"
+  },
+  {
+    "id": 54,
+    "titulo": "Far Cry 3",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Ubisoft",
+    "calificacion": 8.5,
+    "anioPublicacion": 2012,
+    "web": "http://farcrygame.com"
+  },
+  {
+    "id": 55,
+    "titulo": "Deus Ex: Mankind Divided",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Eidos Montreal",
+    "calificacion": 7.9,
+    "anioPublicacion": 2016,
+    "web": "http://www.deusex.com/"
+  },
+  {
+    "id": 56,
+    "titulo": "PlayerUnknown’s Battlegrounds",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "Multijugador masivo"
+    ],
+    "desarrollador": "Krafton",
+    "calificacion": 6.6,
+    "anioPublicacion": 2017,
+    "web": "http://www.playbattlegrounds.com"
+  },
+  {
+    "id": 57,
+    "titulo": "Path of Exile",
+    "generos": [
+      "Acción",
+      "RPG",
+      "Multijugador masivo",
+      "Indie"
+    ],
+    "desarrollador": "Grinding Gear Games",
+    "calificacion": 7.3,
+    "anioPublicacion": 2013,
+    "web": "http://www.pathofexile.com"
+  },
+  {
+    "id": 58,
+    "titulo": "Marvel's Spider-Man",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Insomniac Games",
+    "calificacion": 8.9,
+    "anioPublicacion": 2018,
+    "web": "https://insomniac.games/game/spider-man-ps4/"
+  },
+  {
+    "id": 59,
+    "titulo": "Alan Wake",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "Aventura"
+    ],
+    "desarrollador": "Remedy Entertainment",
+    "calificacion": 8.2,
+    "anioPublicacion": 2010,
+    "web": "http://www.alanwake.com"
+  },
+  {
+    "id": 60,
+    "titulo": "Detroit: Become Human",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Quantic Dream",
+    "calificacion": 8.7,
+    "anioPublicacion": 2018,
+    "web": "https://www.quanticdream.com/en/detroit-become-human"
+  },
+  {
+    "id": 61,
+    "titulo": "Wolfenstein: The New Order",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Bethesda Softworks",
+    "calificacion": 8.4,
+    "anioPublicacion": 2014,
+    "web": "http://www.wolfenstein.com"
+  },
+  {
+    "id": 62,
+    "titulo": "Garry's Mod",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Simulación",
+      "Casual",
+      "Indie"
+    ],
+    "desarrollador": "Facepunch Studios",
+    "calificacion": 7.6,
+    "anioPublicacion": 2004,
+    "web": "https://gmod.facepunch.com"
+  },
+  {
+    "id": 63,
+    "titulo": "Amnesia: The Dark Descent",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Indie"
+    ],
+    "desarrollador": "Frictional Games",
+    "calificacion": 7.3,
+    "anioPublicacion": 2010,
+    "web": "http://www.amnesiagame.com"
+  },
+  {
+    "id": 64,
+    "titulo": "Spec Ops: The Line",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Yager",
+    "calificacion": 8.2,
+    "anioPublicacion": 2012,
+    "web": "http://www.specopstheline.com/"
+  },
+  {
+    "id": 65,
+    "titulo": "Half-Life Deathmatch: Source",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 6.4,
+    "anioPublicacion": 2006,
+    "web": ""
+  },
+  {
+    "id": 66,
+    "titulo": "Saints Row: The Third",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Volition",
+    "calificacion": 7.9,
+    "anioPublicacion": 2011,
+    "web": "https://saintsrow.com/"
+  },
+  {
+    "id": 67,
+    "titulo": "Fallout: New Vegas",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "RPG"
+    ],
+    "desarrollador": "Obsidian Entertainment",
+    "calificacion": 8.9,
+    "anioPublicacion": 2010,
+    "web": "http://fallout.bethsoft.com"
+  },
+  {
+    "id": 68,
+    "titulo": "Prey",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "RPG"
+    ],
+    "desarrollador": "Arkane Studios",
+    "calificacion": 8.6,
+    "anioPublicacion": 2017,
+    "web": "https://prey.bethesda.net"
+  },
+  {
+    "id": 69,
+    "titulo": "Borderlands",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "RPG"
+    ],
+    "desarrollador": "2K",
+    "calificacion": 7.6,
+    "anioPublicacion": 2009,
+    "web": "http://www.borderlandsthegame.com/"
+  },
+  {
+    "id": 70,
+    "titulo": "The Elder Scrolls V: Skyrim Special Edition",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Bethesda Game Studios",
+    "calificacion": 8.9,
+    "anioPublicacion": 2016,
+    "web": ""
+  },
+  {
+    "id": 71,
+    "titulo": "Dishonored 2",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Bethesda Softworks",
+    "calificacion": 8.5,
+    "anioPublicacion": 2016,
+    "web": "https://www.dishonored.com/"
+  },
+  {
+    "id": 72,
+    "titulo": "Dishonored",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "RPG"
+    ],
+    "desarrollador": "Bethesda Softworks",
+    "calificacion": 8.8,
+    "anioPublicacion": 2012,
+    "web": "http://www.dishonored.com"
+  },
+  {
+    "id": 73,
+    "titulo": "Don't Starve Together",
+    "generos": [
+      "Acción",
+      "Simulación",
+      "Indie"
+    ],
+    "desarrollador": "Klei Entertainment",
+    "calificacion": 7.5,
+    "anioPublicacion": 2016,
+    "web": "http://www.dontstarvegame.com"
+  },
+  {
+    "id": 74,
+    "titulo": "Grand Theft Auto: Vice City",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Rockstar North",
+    "calificacion": 8.9,
+    "anioPublicacion": 2002,
+    "web": "https://www.rockstargames.com/games/vicecity"
+  },
+  {
+    "id": 75,
+    "titulo": "Hellblade: Senua's Sacrifice",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Indie"
+    ],
+    "desarrollador": "Ninja Theory",
+    "calificacion": 8.4,
+    "anioPublicacion": 2017,
+    "web": "http://www.hellblade.com/"
+  },
+  {
+    "id": 76,
+    "titulo": "Company of Heroes 2",
+    "generos": [
+      "Estrategia"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 6.2,
+    "anioPublicacion": 2013,
+    "web": "http://www.companyofheroes.com/"
+  },
+  {
+    "id": 77,
+    "titulo": "Injustice: Gods Among Us Ultimate Edition",
+    "generos": [
+      "Acción",
+      "Arcade",
+      "Lucha"
+    ],
+    "desarrollador": "NetherRealm Studios",
+    "calificacion": 7.1,
+    "anioPublicacion": 2013,
+    "web": "http://www.injustice.com"
+  },
+  {
+    "id": 78,
+    "titulo": "Assassin’s Creed IV: Black Flag",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Ubisoft",
+    "calificacion": 8.3,
+    "anioPublicacion": 2013,
+    "web": "http://www.assassinscreed.com"
+  },
+  {
+    "id": 79,
+    "titulo": "Hitman: Absolution",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "IO Interactive",
+    "calificacion": 7.5,
+    "anioPublicacion": 2012,
+    "web": "https://www.ioi.dk/hitman-absolution/"
+  },
+  {
+    "id": 80,
+    "titulo": "Sid Meier's Civilization V",
+    "generos": [
+      "Estrategia"
+    ],
+    "desarrollador": "Aspyr Media",
+    "calificacion": 8.6,
+    "anioPublicacion": 2010,
+    "web": "http://www.civilization.com"
+  },
+  {
+    "id": 81,
+    "titulo": "Control",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "Aventura"
+    ],
+    "desarrollador": "505 Games",
+    "calificacion": 8.3,
+    "anioPublicacion": 2019,
+    "web": "https://www.controlgame.com"
+  },
+  {
+    "id": 82,
+    "titulo": "L.A. Noire",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Team Bondi",
+    "calificacion": 8.3,
+    "anioPublicacion": 2011,
+    "web": "https://www.rockstargames.com/lanoire/"
+  },
+  {
+    "id": 83,
+    "titulo": "Super Meat Boy",
+    "generos": [
+      "Indie",
+      "Plataformas"
+    ],
+    "desarrollador": "NVIDIA Lightspeed Studios",
+    "calificacion": 8.0,
+    "anioPublicacion": 2010,
+    "web": "http://www.supermeatboy.com"
+  },
+  {
+    "id": 84,
+    "titulo": "Star Wars Jedi: Fallen Order",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Respawn Entertainment",
+    "calificacion": 8.3,
+    "anioPublicacion": 2019,
+    "web": "https://www.ea.com/games/starwars/jedi-fallen-order"
+  },
+  {
+    "id": 85,
+    "titulo": "For Honor",
+    "generos": [
+      "Acción",
+      "Multijugador masivo"
+    ],
+    "desarrollador": "Ubisoft",
+    "calificacion": 6.6,
+    "anioPublicacion": 2017,
+    "web": "http://forhonorgame.com/"
+  },
+  {
+    "id": 86,
+    "titulo": "Uncharted 4: A Thief’s End",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Naughty Dog",
+    "calificacion": 9.0,
+    "anioPublicacion": 2016,
+    "web": "https://www.unchartedthegame.com/en-us/games/uncharted-4/"
+  },
+  {
+    "id": 87,
+    "titulo": "Dead Space (2008)",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Electronic Arts",
+    "calificacion": 8.8,
+    "anioPublicacion": 2008,
+    "web": "http://deadspace.ea.com/agegate.aspx?returnURL=/Default.aspx"
+  },
+  {
+    "id": 88,
+    "titulo": "Counter-Strike: Source",
+    "generos": [
+      "Shooter"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 7.5,
+    "anioPublicacion": 2004,
+    "web": ""
+  },
+  {
+    "id": 89,
+    "titulo": "Mass Effect 2",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "BioWare",
+    "calificacion": 8.9,
+    "anioPublicacion": 2010,
+    "web": "http://masseffect.bioware.com/"
+  },
+  {
+    "id": 90,
+    "titulo": "Death Stranding",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Kojima Productions",
+    "calificacion": 8.6,
+    "anioPublicacion": 2019,
+    "web": "https://www.kojimaproductions.jp/en/death-stranding-pc"
+  },
+  {
+    "id": 91,
+    "titulo": "Just Cause 3",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Square Enix",
+    "calificacion": 6.8,
+    "anioPublicacion": 2015,
+    "web": "https://justcause.com/"
+  },
+  {
+    "id": 92,
+    "titulo": "Metro: Last Light Redux",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Deep Silver",
+    "calificacion": 8.3,
+    "anioPublicacion": 2014,
+    "web": "http://www.enterthemetro.com"
+  },
+  {
+    "id": 93,
+    "titulo": "Metro 2033 Redux",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Deep Silver",
+    "calificacion": 8.2,
+    "anioPublicacion": 2014,
+    "web": "http://www.enterthemetro.com/"
+  },
+  {
+    "id": 94,
+    "titulo": "Counter-Strike",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 8.1,
+    "anioPublicacion": 2000,
+    "web": "https://www.counter-strike.net"
+  },
+  {
+    "id": 95,
+    "titulo": "Borderlands: The Pre-Sequel",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "RPG"
+    ],
+    "desarrollador": "Aspyr Media",
+    "calificacion": 7.1,
+    "anioPublicacion": 2014,
+    "web": "http://borderlandsthegame.com/"
+  },
+  {
+    "id": 96,
+    "titulo": "Left 4 Dead",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 8.2,
+    "anioPublicacion": 2008,
+    "web": "http://www.l4d.com/"
+  },
+  {
+    "id": 97,
+    "titulo": "BioShock 2 Remastered",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Digital Extremes",
+    "calificacion": 8.0,
+    "anioPublicacion": 2016,
+    "web": "https://2k.com/en-US/game/bioshock-the-collection"
+  },
+  {
+    "id": 98,
+    "titulo": "Hades",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "RPG",
+      "Indie"
+    ],
+    "desarrollador": "Supergiant Games",
+    "calificacion": 8.8,
+    "anioPublicacion": 2020,
+    "web": "https://www.supergiantgames.com/games/hades/"
+  },
+  {
+    "id": 99,
+    "titulo": "Metal Gear Solid V: Ground Zeroes",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Kojima Productions",
+    "calificacion": 7.8,
+    "anioPublicacion": 2014,
+    "web": "http://www.konami.jp/mgs5/gz/certification.php5"
+  },
+  {
+    "id": 100,
+    "titulo": "NieR:Automata",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Platinum Games",
+    "calificacion": 8.7,
+    "anioPublicacion": 2017,
+    "web": "http://www.niergame.com/"
+  },
+  {
+    "id": 101,
+    "titulo": "Minecraft",
+    "generos": [
+      "Acción",
+      "Simulación",
+      "Arcade",
+      "Multijugador masivo",
+      "Indie"
+    ],
+    "desarrollador": "4J Studios",
+    "calificacion": 8.9,
+    "anioPublicacion": 2009,
+    "web": "https://classic.minecraft.net/"
+  },
+  {
+    "id": 102,
+    "titulo": "Mortal Kombat X",
+    "generos": [
+      "Acción",
+      "Lucha"
+    ],
+    "desarrollador": "Warner Bros. Interactive",
+    "calificacion": 7.7,
+    "anioPublicacion": 2015,
+    "web": "http://www.mortalkombat.com"
+  },
+  {
+    "id": 103,
+    "titulo": "Mass Effect",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "BioWare",
+    "calificacion": 8.8,
+    "anioPublicacion": 2007,
+    "web": "http://masseffect.bioware.com/"
+  },
+  {
+    "id": 104,
+    "titulo": "The Last Of Us Remastered",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Naughty Dog",
+    "calificacion": 9.4,
+    "anioPublicacion": 2014,
+    "web": "https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/"
+  },
+  {
+    "id": 105,
+    "titulo": "Just Cause 2",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Square Enix",
+    "calificacion": 7.2,
+    "anioPublicacion": 2010,
+    "web": "http://www.justcause.com/"
+  },
+  {
+    "id": 106,
+    "titulo": "Fall Guys: Ultimate Knockout",
+    "generos": [
+      "Acción",
+      "Deportes",
+      "Casual",
+      "Multijugador masivo",
+      "Indie"
+    ],
+    "desarrollador": "Mediatonic",
+    "calificacion": 7.5,
+    "anioPublicacion": 2020,
+    "web": "https://fallguys.com/"
+  },
+  {
+    "id": 107,
+    "titulo": "ARK: Survival Of The Fittest",
+    "generos": [
+      "Acción",
+      "RPG",
+      "Estrategia",
+      "Multijugador masivo",
+      "Indie"
+    ],
+    "desarrollador": "Instinct Games",
+    "calificacion": 5.2,
+    "anioPublicacion": 2016,
+    "web": "http://www.playark.com"
+  },
+  {
+    "id": 108,
+    "titulo": "Monster Hunter: World",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "RPG"
+    ],
+    "desarrollador": "Capcom",
+    "calificacion": 8.0,
+    "anioPublicacion": 2018,
+    "web": "http://www.monsterhunterworld.com"
+  },
+  {
+    "id": 109,
+    "titulo": "Mad Max",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Avalanche Studios",
+    "calificacion": 7.6,
+    "anioPublicacion": 2015,
+    "web": ""
+  },
+  {
+    "id": 110,
+    "titulo": "Resident Evil 7: Biohazard",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "Aventura"
+    ],
+    "desarrollador": "Capcom",
+    "calificacion": 8.7,
+    "anioPublicacion": 2017,
+    "web": "http://residentevil7.com"
+  },
+  {
+    "id": 111,
+    "titulo": "Middle-earth: Shadow of War",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Warner Bros. Interactive",
+    "calificacion": 7.7,
+    "anioPublicacion": 2017,
+    "web": "http://www.ShadowOfWar.com"
+  },
+  {
+    "id": 112,
+    "titulo": "Bastion",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "RPG",
+      "Indie"
+    ],
+    "desarrollador": "Warner Bros. Interactive",
+    "calificacion": 8.3,
+    "anioPublicacion": 2011,
+    "web": "https://www.supergiantgames.com/games/bastion/"
+  },
+  {
+    "id": 113,
+    "titulo": "Batman: Arkham City - Game of the Year Edition",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 8.8,
+    "anioPublicacion": 2012,
+    "web": "http://community.batmanarkhamcity.com/"
+  },
+  {
+    "id": 114,
+    "titulo": "Titanfall 2",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Respawn Entertainment",
+    "calificacion": 8.6,
+    "anioPublicacion": 2016,
+    "web": "https://www.ea.com/games/titanfall/titanfall-2"
+  },
+  {
+    "id": 115,
+    "titulo": "Paladins",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Hi-Rez Studios",
+    "calificacion": 6.2,
+    "anioPublicacion": 2016,
+    "web": "http://www.paladins.com/"
+  },
+  {
+    "id": 116,
+    "titulo": "ARK: Survival Evolved",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "RPG",
+      "Multijugador masivo",
+      "Indie"
+    ],
+    "desarrollador": "Instinct Games",
+    "calificacion": 6.2,
+    "anioPublicacion": 2015,
+    "web": "http://www.playark.com"
+  },
+  {
+    "id": 117,
+    "titulo": "Bloodborne",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "FromSoftware",
+    "calificacion": 8.8,
+    "anioPublicacion": 2015,
+    "web": "https://www.jp.playstation.com/scej/title/bloodborne/"
+  },
+  {
+    "id": 118,
+    "titulo": "Cities: Skylines",
+    "generos": [
+      "Estrategia",
+      "Simulación"
+    ],
+    "desarrollador": "Colossal Order",
+    "calificacion": 8.2,
+    "anioPublicacion": 2015,
+    "web": "http://www.citiesskylines.com/"
+  },
+  {
+    "id": 119,
+    "titulo": "Journey",
+    "generos": [
+      "Aventura",
+      "Familiar",
+      "Indie"
+    ],
+    "desarrollador": "thatgamecompany",
+    "calificacion": 8.6,
+    "anioPublicacion": 2012,
+    "web": "http://thatgamecompany.com/games/journey/"
+  },
+  {
+    "id": 120,
+    "titulo": "Undertale",
+    "generos": [
+      "RPG",
+      "Indie"
+    ],
+    "desarrollador": "8-4",
+    "calificacion": 8.7,
+    "anioPublicacion": 2015,
+    "web": "http://undertale.com"
+  },
+  {
+    "id": 121,
+    "titulo": "Batman: Arkham Asylum Game of the Year Edition",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Plataformas"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 8.8,
+    "anioPublicacion": 2010,
+    "web": "http://www.batmanarkhamasylum.com/"
+  },
+  {
+    "id": 122,
+    "titulo": "Unturned",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "505 Games",
+    "calificacion": 5.5,
+    "anioPublicacion": 2014,
+    "web": "http://smartlydressedgames.com/"
+  },
+  {
+    "id": 123,
+    "titulo": "Warhammer: Vermintide 2",
+    "generos": [
+      "Acción",
+      "Indie"
+    ],
+    "desarrollador": "Fatshark",
+    "calificacion": 7.2,
+    "anioPublicacion": 2018,
+    "web": ""
+  },
+  {
+    "id": 124,
+    "titulo": "Far Cry 5",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Ubisoft",
+    "calificacion": 7.4,
+    "anioPublicacion": 2018,
+    "web": "https://www.ubisoft.com/en-gb/game/far-cry/far-cry-5"
+  },
+  {
+    "id": 125,
+    "titulo": "XCOM: Enemy Unknown",
+    "generos": [
+      "Estrategia"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 8.4,
+    "anioPublicacion": 2012,
+    "web": "http://www.xcom.com/enemyunknown/"
+  },
+  {
+    "id": 126,
+    "titulo": "Fallout",
+    "generos": [
+      "RPG"
+    ],
+    "desarrollador": "Black Isle Studios",
+    "calificacion": 8.4,
+    "anioPublicacion": 1997,
+    "web": ""
+  },
+  {
+    "id": 127,
+    "titulo": "Mafia II",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "2K Czech",
+    "calificacion": 8.5,
+    "anioPublicacion": 2010,
+    "web": "http://www.mafia2game.com"
+  },
+  {
+    "id": 128,
+    "titulo": "Brothers: A Tale of Two Sons",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Indie"
+    ],
+    "desarrollador": "Starbreeze Studios",
+    "calificacion": 8.4,
+    "anioPublicacion": 2013,
+    "web": "https://505games.com/games/brothers/"
+  },
+  {
+    "id": 129,
+    "titulo": "Watch Dogs",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Ubisoft",
+    "calificacion": 7.2,
+    "anioPublicacion": 2014,
+    "web": "http://www.watchdogs.com/"
+  },
+  {
+    "id": 130,
+    "titulo": "Heavy Rain",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Quantic Dream",
+    "calificacion": 8.2,
+    "anioPublicacion": 2010,
+    "web": "https://www.quanticdream.com/en/heavy-rain"
+  },
+  {
+    "id": 131,
+    "titulo": "Shadow of the Tomb Raider",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Eidos Montreal",
+    "calificacion": 7.8,
+    "anioPublicacion": 2018,
+    "web": "https://www.tombraider.com/en-gb"
+  },
+  {
+    "id": 132,
+    "titulo": "Sekiro: Shadows Die Twice",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "FromSoftware",
+    "calificacion": 8.8,
+    "anioPublicacion": 2019,
+    "web": "http://www.sekirothegame.com"
+  },
+  {
+    "id": 133,
+    "titulo": "INSIDE",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Indie",
+      "Puzzle",
+      "Plataformas"
+    ],
+    "desarrollador": "Playdead",
+    "calificacion": 8.8,
+    "anioPublicacion": 2016,
+    "web": "http://www.playdead.com/"
+  },
+  {
+    "id": 134,
+    "titulo": "Brutal Legend",
+    "generos": [
+      "Acción",
+      "Estrategia"
+    ],
+    "desarrollador": "Electronic Arts",
+    "calificacion": 7.3,
+    "anioPublicacion": 2009,
+    "web": "http://www.brutallegend.com"
+  },
+  {
+    "id": 135,
+    "titulo": "Metro Exodus",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "4A Games",
+    "calificacion": 8.3,
+    "anioPublicacion": 2019,
+    "web": "http://www.metrothegame.com/"
+  },
+  {
+    "id": 136,
+    "titulo": "SEGA Mega Drive and Genesis Classics",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "RPG",
+      "Lucha",
+      "Plataformas"
+    ],
+    "desarrollador": "SEGA",
+    "calificacion": 6.0,
+    "anioPublicacion": 2010,
+    "web": "https://megadriveclassics.sega.com/"
+  },
+  {
+    "id": 137,
+    "titulo": "Psychonauts",
+    "generos": [
+      "Acción",
+      "Plataformas"
+    ],
+    "desarrollador": "Double Fine Productions",
+    "calificacion": 8.1,
+    "anioPublicacion": 2005,
+    "web": "http://www.psychonauts.com/"
+  },
+  {
+    "id": 138,
+    "titulo": "Max Payne 3",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Rockstar Games",
+    "calificacion": 8.5,
+    "anioPublicacion": 2012,
+    "web": "http://www.rockstargames.com/maxpayne3"
+  },
+  {
+    "id": 139,
+    "titulo": "Brawlhalla",
+    "generos": [
+      "Acción",
+      "Casual",
+      "Lucha",
+      "Indie"
+    ],
+    "desarrollador": "Ubisoft",
+    "calificacion": 6.4,
+    "anioPublicacion": 2014,
+    "web": "http://www.brawlhalla.com"
+  },
+  {
+    "id": 140,
+    "titulo": "Firewatch",
+    "generos": [
+      "Aventura",
+      "Indie"
+    ],
+    "desarrollador": "Campo Santo",
+    "calificacion": 8.6,
+    "anioPublicacion": 2016,
+    "web": "https://www.firewatchgame.com/"
+  },
+  {
+    "id": 141,
+    "titulo": "Assassin's Creed Odyssey",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Ubisoft",
+    "calificacion": 7.9,
+    "anioPublicacion": 2018,
+    "web": "https://assassinscreed.ubisoft.com/game/en-us/home/"
+  },
+  {
+    "id": 142,
+    "titulo": "Assassin's Creed II",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Ubisoft Montreal",
+    "calificacion": 8.9,
+    "anioPublicacion": 2009,
+    "web": "http://assassinscreed.uk.ubi.com/assassins-creed-2/#/home"
+  },
+  {
+    "id": 143,
+    "titulo": "No Man's Sky",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "RPG",
+      "Simulación",
+      "Multijugador masivo",
+      "Indie"
+    ],
+    "desarrollador": "Hello Games",
+    "calificacion": 7.4,
+    "anioPublicacion": 2016,
+    "web": "http://www.no-mans-sky.com"
+  },
+  {
+    "id": 144,
+    "titulo": "Saints Row IV",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Volition",
+    "calificacion": 7.6,
+    "anioPublicacion": 2013,
+    "web": "https://saintsrow.com/"
+  },
+  {
+    "id": 145,
+    "titulo": "Tom Clancy's Rainbow Six Siege",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Ubisoft",
+    "calificacion": 7.8,
+    "anioPublicacion": 2015,
+    "web": "http://rainbow6.ubi.com/"
+  },
+  {
+    "id": 146,
+    "titulo": "Alien: Isolation",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 8.4,
+    "anioPublicacion": 2014,
+    "web": "http://www.alienisolation.com"
+  },
+  {
+    "id": 147,
+    "titulo": "Elden Ring",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "FromSoftware",
+    "calificacion": 8.8,
+    "anioPublicacion": 2022,
+    "web": "https://en.bandainamcoent.eu/elden-ring/elden-ring"
+  },
+  {
+    "id": 148,
+    "titulo": "Disco Elysium",
+    "generos": [
+      "Aventura",
+      "RPG",
+      "Indie"
+    ],
+    "desarrollador": "ZA/UM",
+    "calificacion": 8.7,
+    "anioPublicacion": 2019,
+    "web": "http://zaumstudio.com/"
+  },
+  {
+    "id": 149,
+    "titulo": "The Darkness II",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "2K",
+    "calificacion": 7.4,
+    "anioPublicacion": 2012,
+    "web": "http://www.embracethedarkness.com/"
+  },
+  {
+    "id": 150,
+    "titulo": "Cuphead",
+    "generos": [
+      "Acción",
+      "Indie",
+      "Plataformas"
+    ],
+    "desarrollador": "Studio MDHR",
+    "calificacion": 8.7,
+    "anioPublicacion": 2017,
+    "web": "http://www.cupheadgame.com"
+  },
+  {
+    "id": 151,
+    "titulo": "Hitman 2",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "IO Interactive",
+    "calificacion": 8.1,
+    "anioPublicacion": 2018,
+    "web": "https://hitman.com"
+  },
+  {
+    "id": 152,
+    "titulo": "War Thunder",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "Multijugador masivo"
+    ],
+    "desarrollador": "Gaijin Entertainment",
+    "calificacion": 6.4,
+    "anioPublicacion": 2013,
+    "web": "https://warthunder.com/"
+  },
+  {
+    "id": 153,
+    "titulo": "Batman: Arkham Origins",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Warner Bros. Interactive",
+    "calificacion": 7.9,
+    "anioPublicacion": 2013,
+    "web": "http://www.batmanarkhamorigins.com/"
+  },
+  {
+    "id": 154,
+    "titulo": "Darksiders",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "THQ",
+    "calificacion": 7.5,
+    "anioPublicacion": 2010,
+    "web": "http://www.darksiders.com"
+  },
+  {
+    "id": 155,
+    "titulo": "Assassin's Creed Origins",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Ubisoft",
+    "calificacion": 7.9,
+    "anioPublicacion": 2017,
+    "web": "https://www.assassinscreed.ubi.com"
+  },
+  {
+    "id": 156,
+    "titulo": "DOOM Eternal",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Bethesda Softworks",
+    "calificacion": 8.7,
+    "anioPublicacion": 2020,
+    "web": "https://bethesda.net/en/game/doom"
+  },
+  {
+    "id": 157,
+    "titulo": "Titan Quest Anniversary Edition",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "THQ Nordic",
+    "calificacion": 7.6,
+    "anioPublicacion": 2016,
+    "web": "https://www.thqnordic.com/games/titan-quest-anniversary-edition"
+  },
+  {
+    "id": 158,
+    "titulo": "Among Us",
+    "generos": [
+      "Acción",
+      "Simulación",
+      "Casual"
+    ],
+    "desarrollador": "Innersloth",
+    "calificacion": 7.7,
+    "anioPublicacion": 2018,
+    "web": "http://innersloth.com/gameAmongUs.php"
+  },
+  {
+    "id": 159,
+    "titulo": "Halo Infinite",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "Aventura"
+    ],
+    "desarrollador": "343 Industries",
+    "calificacion": 7.3,
+    "anioPublicacion": 2021,
+    "web": "https://www.343industries.com/slipspace-engine"
+  },
+  {
+    "id": 160,
+    "titulo": "Crusader Kings II",
+    "generos": [
+      "Estrategia",
+      "Simulación"
+    ],
+    "desarrollador": "Paradox Development Studio",
+    "calificacion": 7.2,
+    "anioPublicacion": 2012,
+    "web": "http://www.crusaderkings.com/"
+  },
+  {
+    "id": 161,
+    "titulo": "The Wolf Among Us",
+    "generos": [
+      "Aventura"
+    ],
+    "desarrollador": "Telltale Games",
+    "calificacion": 8.8,
+    "anioPublicacion": 2013,
+    "web": "http://www.telltalegames.com/thewolfamongus"
+  },
+  {
+    "id": 162,
+    "titulo": "Transistor",
+    "generos": [
+      "Acción",
+      "RPG",
+      "Indie"
+    ],
+    "desarrollador": "Supergiant Games",
+    "calificacion": 8.3,
+    "anioPublicacion": 2014,
+    "web": "https://www.supergiantgames.com/games/transistor/"
+  },
+  {
+    "id": 163,
+    "titulo": "Battlefield 1",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Electronic Arts",
+    "calificacion": 7.7,
+    "anioPublicacion": 2016,
+    "web": "http://www.battlefield.com"
+  },
+  {
+    "id": 164,
+    "titulo": "Deus Ex: Human Revolution - Director's Cut",
+    "generos": [
+      "Acción",
+      "RPG"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 8.6,
+    "anioPublicacion": 2013,
+    "web": "http://www.deusex.com/"
+  },
+  {
+    "id": 165,
+    "titulo": "Far Cry 4",
+    "generos": [
+      "Shooter"
+    ],
+    "desarrollador": "Ubisoft",
+    "calificacion": 7.6,
+    "anioPublicacion": 2014,
+    "web": "http://farcrygame.com"
+  },
+  {
+    "id": 166,
+    "titulo": "Layers of Fear",
+    "generos": [
+      "Aventura",
+      "Indie"
+    ],
+    "desarrollador": "Bloober Team",
+    "calificacion": 7.1,
+    "anioPublicacion": 2016,
+    "web": "http://layersoffear.com"
+  },
+  {
+    "id": 167,
+    "titulo": "GRID 2",
+    "generos": [
+      "Carreras",
+      "Arcade"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 6.6,
+    "anioPublicacion": 2013,
+    "web": "http://www.gridgame.com/"
+  },
+  {
+    "id": 168,
+    "titulo": "Resident Evil 5",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Capcom",
+    "calificacion": 7.6,
+    "anioPublicacion": 2009,
+    "web": "http://www.residentevil.com/5/"
+  },
+  {
+    "id": 169,
+    "titulo": "XCOM 2",
+    "generos": [
+      "RPG",
+      "Estrategia"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 8.2,
+    "anioPublicacion": 2016,
+    "web": "http://www.xcom.com"
+  },
+  {
+    "id": 170,
+    "titulo": "Ori and the Blind Forest: Definitive Edition",
+    "generos": [
+      "Aventura",
+      "Plataformas"
+    ],
+    "desarrollador": "Moon Studios",
+    "calificacion": 8.8,
+    "anioPublicacion": 2016,
+    "web": "http://www.oriblindforest.com/"
+  },
+  {
+    "id": 171,
+    "titulo": "Counter-Strike: Condition Zero",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Valve Software",
+    "calificacion": 6.3,
+    "anioPublicacion": 2004,
+    "web": ""
+  },
+  {
+    "id": 172,
+    "titulo": "The Stanley Parable",
+    "generos": [
+      "Aventura",
+      "Indie"
+    ],
+    "desarrollador": "Galactic Cafe",
+    "calificacion": 8.7,
+    "anioPublicacion": 2013,
+    "web": "http://stanleyparable.com"
+  },
+  {
+    "id": 173,
+    "titulo": "Call of Duty: Modern Warfare 2",
+    "generos": [
+      "Shooter"
+    ],
+    "desarrollador": "Infinity Ward",
+    "calificacion": 8.5,
+    "anioPublicacion": 2009,
+    "web": "http://modernwarfare2.infinityward.com/"
+  },
+  {
+    "id": 174,
+    "titulo": "Insurgency",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "Indie"
+    ],
+    "desarrollador": "New World Interactive",
+    "calificacion": 6.8,
+    "anioPublicacion": 2014,
+    "web": "https://www.newworldinteractive.com"
+  },
+  {
+    "id": 175,
+    "titulo": "Saints Row 2",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Volition",
+    "calificacion": 7.1,
+    "anioPublicacion": 2008,
+    "web": "http://www.saintsrow.com/"
+  },
+  {
+    "id": 176,
+    "titulo": "Black Desert Online",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "RPG",
+      "Estrategia",
+      "Simulación",
+      "Multijugador masivo"
+    ],
+    "desarrollador": "Pearl Abyss",
+    "calificacion": 5.8,
+    "anioPublicacion": 2014,
+    "web": "https://www.blackdesertonline.com/"
+  },
+  {
+    "id": 177,
+    "titulo": "Kingdom Come: Deliverance",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "RPG"
+    ],
+    "desarrollador": "Deep Silver",
+    "calificacion": 8.1,
+    "anioPublicacion": 2018,
+    "web": "https://www.kingdomcomerpg.com/"
+  },
+  {
+    "id": 178,
+    "titulo": "Assassin’s Creed III",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Ubisoft Montreal",
+    "calificacion": 7.5,
+    "anioPublicacion": 2012,
+    "web": "http://assassinscreed.ubi.com/ac3/"
+  },
+  {
+    "id": 179,
+    "titulo": "Red Dead Redemption",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Rockstar North",
+    "calificacion": 8.8,
+    "anioPublicacion": 2010,
+    "web": "http://www.rockstargames.com/reddeadredemption/"
+  },
+  {
+    "id": 180,
+    "titulo": "Sid Meier’s Civilization VI",
+    "generos": [
+      "Estrategia",
+      "Simulación"
+    ],
+    "desarrollador": "Aspyr Media",
+    "calificacion": 8.3,
+    "anioPublicacion": 2016,
+    "web": "http://www.civilization.com/"
+  },
+  {
+    "id": 181,
+    "titulo": "Ori and the Blind Forest",
+    "generos": [
+      "Aventura",
+      "Plataformas"
+    ],
+    "desarrollador": "Moon Studios",
+    "calificacion": 8.7,
+    "anioPublicacion": 2015,
+    "web": "http://www.oriblindforest.com/"
+  },
+  {
+    "id": 182,
+    "titulo": "The Last of Us Part II",
+    "generos": [
+      "Acción",
+      "Shooter",
+      "Aventura"
+    ],
+    "desarrollador": "Naughty Dog",
+    "calificacion": 8.8,
+    "anioPublicacion": 2020,
+    "web": "https://www.thelastofus.playstation.com/"
+  },
+  {
+    "id": 183,
+    "titulo": "Amnesia: A Machine for Pigs",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Indie"
+    ],
+    "desarrollador": "The Chinese Room",
+    "calificacion": 6.5,
+    "anioPublicacion": 2013,
+    "web": "http://www.aamfp.com"
+  },
+  {
+    "id": 184,
+    "titulo": "Total War: SHOGUN 2",
+    "generos": [
+      "Estrategia"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 7.2,
+    "anioPublicacion": 2011,
+    "web": "http://www.totalwar.com/shogun2"
+  },
+  {
+    "id": 185,
+    "titulo": "Trine 2: Complete Story",
+    "generos": [
+      "Acción",
+      "Indie",
+      "Puzzle",
+      "Plataformas"
+    ],
+    "desarrollador": "Frozenbyte",
+    "calificacion": 7.4,
+    "anioPublicacion": 2013,
+    "web": "http://www.trine2.com/"
+  },
+  {
+    "id": 186,
+    "titulo": "SOMA",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Indie"
+    ],
+    "desarrollador": "Frictional Games",
+    "calificacion": 8.3,
+    "anioPublicacion": 2015,
+    "web": "http://www.somagame.com"
+  },
+  {
+    "id": 187,
+    "titulo": "Viscera Cleanup Detail: Shadow Warrior",
+    "generos": [
+      "Acción",
+      "Simulación",
+      "Indie"
+    ],
+    "desarrollador": "Devolver Digital",
+    "calificacion": 5.2,
+    "anioPublicacion": 2013,
+    "web": "http://www.runestorm.com/viscera"
+  },
+  {
+    "id": 188,
+    "titulo": "Watch Dogs 2",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Ubisoft Montreal",
+    "calificacion": 7.7,
+    "anioPublicacion": 2016,
+    "web": "http://watchdogs.com/"
+  },
+  {
+    "id": 189,
+    "titulo": "Thief",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Feral Interactive",
+    "calificacion": 6.5,
+    "anioPublicacion": 2014,
+    "web": "http://www.thiefgame.com"
+  },
+  {
+    "id": 190,
+    "titulo": "This War of Mine",
+    "generos": [
+      "Aventura",
+      "Simulación",
+      "Indie"
+    ],
+    "desarrollador": "11 Bit Studios",
+    "calificacion": 8.1,
+    "anioPublicacion": 2014,
+    "web": "http://www.thiswarofmine.com"
+  },
+  {
+    "id": 191,
+    "titulo": "Call of Juarez: Gunslinger",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Ubisoft",
+    "calificacion": 7.6,
+    "anioPublicacion": 2013,
+    "web": "http://www.callofjuarez.com/"
+  },
+  {
+    "id": 192,
+    "titulo": "The Last Of Us",
+    "generos": [
+      "Acción",
+      "Aventura"
+    ],
+    "desarrollador": "Naughty Dog",
+    "calificacion": 9.1,
+    "anioPublicacion": 2013,
+    "web": "http://www.thelastofus.playstation.com/"
+  },
+  {
+    "id": 193,
+    "titulo": "Grand Theft Auto III",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "DMA Design",
+    "calificacion": 8.3,
+    "anioPublicacion": 2001,
+    "web": "http://www.rockstargames.com/grandtheftauto3"
+  },
+  {
+    "id": 194,
+    "titulo": "Dead Cells",
+    "generos": [
+      "Acción",
+      "RPG",
+      "Indie",
+      "Plataformas"
+    ],
+    "desarrollador": "Plug In Digital",
+    "calificacion": 8.5,
+    "anioPublicacion": 2018,
+    "web": "https://dead-cells.com/"
+  },
+  {
+    "id": 195,
+    "titulo": "Wolfenstein II: The New Colossus",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Bethesda Softworks",
+    "calificacion": 8.2,
+    "anioPublicacion": 2017,
+    "web": "https://wolfenstein.bethesda.net/?utm_source=Steam"
+  },
+  {
+    "id": 196,
+    "titulo": "Papers, Please",
+    "generos": [
+      "Simulación",
+      "Educativo",
+      "Indie",
+      "Puzzle"
+    ],
+    "desarrollador": "Lucas Pope",
+    "calificacion": 8.7,
+    "anioPublicacion": 2013,
+    "web": "http://papersplea.se"
+  },
+  {
+    "id": 197,
+    "titulo": "Call of Duty: Black Ops III",
+    "generos": [
+      "Acción",
+      "Shooter"
+    ],
+    "desarrollador": "Raven Software",
+    "calificacion": 6.5,
+    "anioPublicacion": 2015,
+    "web": "https://www.callofduty.com/blackops3"
+  },
+  {
+    "id": 198,
+    "titulo": "Killing Floor",
+    "generos": [
+      "Acción"
+    ],
+    "desarrollador": "Tripwire Interactive",
+    "calificacion": 6.9,
+    "anioPublicacion": 2009,
+    "web": "http://www.killingfloorthegame.com"
+  },
+  {
+    "id": 199,
+    "titulo": "Shadowrun Returns",
+    "generos": [
+      "RPG",
+      "Estrategia",
+      "Indie"
+    ],
+    "desarrollador": "Harebrained Schemes",
+    "calificacion": 7.0,
+    "anioPublicacion": 2013,
+    "web": "http://harebrained-schemes.com/shadowrun/"
+  },
+  {
+    "id": 200,
+    "titulo": "Divinity: Original Sin 2",
+    "generos": [
+      "RPG",
+      "Estrategia"
+    ],
+    "desarrollador": "Larian Studios",
+    "calificacion": 8.8,
+    "anioPublicacion": 2017,
+    "web": "http://divinity.game"
+  }
+]
