@@ -27,7 +27,7 @@
 ### Pasos para Ejecutar
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/nextgame.git](https://github.com/tu-usuario/nextgame.git)
+   git clone [link https del repositorio]
    cd nextgame
 
 ### Pasos para Ejecutar
