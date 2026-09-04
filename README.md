@@ -1,4 +1,5 @@
-# 🎮 NextGame - Sistema de Recomendación y Catálogo de Videojuegos
+# 🎮 NextGame - 
+### Sistema de Recomendación y Catálogo de Videojuegos
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Estado](https://img.shields.io/badge/estado-Primera_Entrega_OK-brightgreen.svg)]()
@@ -7,11 +8,13 @@
 
 ---
 
+## ED 2026 - Comisión 3 - Grupo 1
+
+
 ## 👥 Integrantes del Equipo
 
-* **[Nombre y Apellido 1]** - *Legajo: XXXXX* - [@usuario_github](https://github.com/usuario1)
-* **[Nombre y Apellido 2]** - *Legajo: XXXXX* - [@usuario_github](https://github.com/usuario2)
-* **[Nombre y Apellido 3]** - *Legajo: XXXXX* - [@usuario_github](https://github.com/usuario3)
+* **Hernandez Alejo**  
+* **Mora Joaquin**
 
 ---
 
