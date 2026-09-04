@@ -41,13 +41,11 @@ class InterfazConsola:
 
         entrada = input("\nIngrese el número o el nombre del género: ").strip()
 
-        # Si el usuario ingresó un número (ej: "2"), devolvemos el texto del género correspondiente
         if entrada.isdigit():
             idx = int(entrada) - 1
             if 0 <= idx < len(generos):
                 return generos[idx]
 
-        # Si ingresó el texto directamente (ej: "Arcade") o un número fuera de rango, devolvemos la entrada limpia
         return entrada
 
     # --- Métodos de Salida / Visualización ---
@@ -63,14 +61,18 @@ class InterfazConsola:
 
     @staticmethod
     def mostrar_tarjeta_recomendaciones(juego_base: Juego, recomendaciones: List[Juego]):
-        print("\n╔═════════════════════════════════════════════════════╗")
-        print("║                   🎮 NEXTGAME                       ║")
-        print("╠═════════════════════════════════════════════════════╣")
-        print(f" Si te gustó {juego_base.titulo.upper()[:25]:<25}, quizás te interesen:")
-        print("                                                      ")
+        titulo_base = juego_base.titulo.upper()
+        
+        print("\n=======================================================")
+        print("                   🎮 NEXTGAME                         ")
+        print("=======================================================")
+        print(f" Si te gustó {titulo_base}:")
+        print(" Te recomendamos probar los siguientes títulos:\n")
+        
         for idx, r in enumerate(recomendaciones, 1):
-            print(f"  {idx}. {r.titulo:<32} ⭐ {r.calificacion:<4}")
-        print("╚═════════════════════════════════════════════════════╝")
+            print(f"  {idx}. {r.titulo} | ⭐ {r.calificacion}")
+            
+        print("=======================================================")
 
     @staticmethod
     def mostrar_top_10(juegos: List[Juego]):
