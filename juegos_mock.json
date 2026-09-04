@@ -1,0 +1,132 @@
+[
+    {
+        "id": 730,
+        "titulo": "Counter-Strike 2",
+        "genero": "FPS",
+        "desarrollador": "Valve",
+        "rating": 88.0,
+        "tags": [
+            "Shooter",
+            "Multijugador",
+            "Competitivo",
+            "Accion"
+        ]
+    },
+    {
+        "id": 570,
+        "titulo": "Dota 2",
+        "genero": "MOBA",
+        "desarrollador": "Valve",
+        "rating": 82.0,
+        "tags": [
+            "MOBA",
+            "Estrategia",
+            "Multijugador",
+            "Competitivo"
+        ]
+    },
+    {
+        "id": 1086940,
+        "titulo": "Baldur's Gate 3",
+        "genero": "RPG",
+        "desarrollador": "Larian Studios",
+        "rating": 96.0,
+        "tags": [
+            "RPG",
+            "Por Turnos",
+            "Fantasia",
+            "Historia Rica"
+        ]
+    },
+    {
+        "id": 1091500,
+        "titulo": "Cyberpunk 2077",
+        "genero": "RPG",
+        "desarrollador": "CD PROJEKT RED",
+        "rating": 86.0,
+        "tags": [
+            "Mundo Abierto",
+            "Cyberpunk",
+            "RPG",
+            "Accion"
+        ]
+    },
+    {
+        "id": 292030,
+        "titulo": "The Witcher 3: Wild Hunt",
+        "genero": "RPG",
+        "desarrollador": "CD PROJEKT RED",
+        "rating": 95.0,
+        "tags": [
+            "Mundo Abierto",
+            "RPG",
+            "Fantasia",
+            "Historia Rica"
+        ]
+    },
+    {
+        "id": 1172470,
+        "titulo": "Apex Legends",
+        "genero": "Battle Royale",
+        "desarrollador": "Respawn Entertainment",
+        "rating": 80.0,
+        "tags": [
+            "Shooter",
+            "FPS",
+            "Multijugador",
+            "Battle Royale"
+        ]
+    },
+    {
+        "id": 252490,
+        "titulo": "Rust",
+        "genero": "Supervivencia",
+        "desarrollador": "Facepunch Studios",
+        "rating": 87.0,
+        "tags": [
+            "Supervivencia",
+            "Mundo Abierto",
+            "Multijugador",
+            "Crafteo"
+        ]
+    },
+    {
+        "id": 271590,
+        "titulo": "Grand Theft Auto V",
+        "genero": "Accion",
+        "desarrollador": "Rockstar North",
+        "rating": 92.0,
+        "tags": [
+            "Mundo Abierto",
+            "Accion",
+            "Multijugador",
+            "Crimen"
+        ]
+    },
+    {
+        "id": 1245620,
+        "titulo": "Elden Ring",
+        "genero": "Soulslike",
+        "desarrollador": "FromSoftware Inc.",
+        "rating": 95.0,
+        "tags": [
+            "Soulslike",
+            "Mundo Abierto",
+            "Dificil",
+            "Fantasia Oscura"
+        ]
+    },
+    {
+        "id": 413150,
+        "titulo": "Stardew Valley",
+        "genero": "Simulacion",
+        "desarrollador": "ConcernedApe",
+        "rating": 98.0,
+        "tags": [
+            "Simulacion",
+            "Cosecha",
+            "Relajante",
+            "Pixel Art"
+        ]
+    }
+]
