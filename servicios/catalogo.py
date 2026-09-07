@@ -30,8 +30,13 @@ class CatalogoJuegos:
 
     # --- 1. BUSCAR VIDEOJUEGO ---
     def buscar_por_titulo(self, titulo: str) -> List[Juego]:
-        busqueda = titulo.strip().lower()
-        return [j for j in self._juegos if busqueda in j.titulo.lower()]
+        palabras = titulo.strip().lower().split(" ")
+        juegos_encontrados = self._juegos.copy()
+        for palabra in palabras:
+            for juego in juegos_encontrados[:]:
+                if palabra not in juego.titulo.lower():
+                    juegos_encontrados.remove(juego)
+        return juegos_encontrados
 
     def obtener_por_titulo_exacto(self, titulo: str) -> Optional[Juego]:
         busqueda = titulo.strip().lower()
